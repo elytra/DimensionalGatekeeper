@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dimgate",
+  "name": "DimensionalGatekeeper",
+  "description": "Custom rules for which entities can travel between what dimensions.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["capitalthree"],
+  "credits": "I love you all",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
