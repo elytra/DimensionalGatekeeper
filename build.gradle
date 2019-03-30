@@ -50,10 +50,10 @@ repositories {
 
 dependencies {
     compile group: "net.shadowfacts", name: "Forgelin", version: "1.6.0"
-    deobfCompile 'com.elytradev.concrete:concrete-common:0.3.8-SNAPSHOT'
-    shadow 'com.elytradev.concrete:concrete-common:0.3.8-SNAPSHOT'
-    deobfCompile 'com.elytradev.concrete:concrete-rulesengine:0.3.8-SNAPSHOT'
-    shadow 'com.elytradev.concrete:concrete-rulesengine:0.3.8-SNAPSHOT'
+    deobfCompile 'com.elytradev.concrete:concrete-common:0.4.45'
+    shadow 'com.elytradev.concrete:concrete-common:0.4.45'
+    deobfCompile 'com.elytradev.concrete:concrete-rulesengine:0.4.45'
+    shadow 'com.elytradev.concrete:concrete-rulesengine:0.4.45'
 }
 
 shadowJar {
